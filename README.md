@@ -24,7 +24,7 @@ Next to my day-job, I'm also an indie dev at night. Through my side-projects, I'
 My main side project is a Point of Sale (PoS) Cash Register app, designed for simple, efficient, and enjoyable use.
 
 - [Google Play (Android)](https://play.google.com/store/apps/details?id=ml.mixxamm.poscashregister)
-- [TestFlight (iOS/iPadOS Beta)](https://testflight.apple.com/join/3UJMepdF)
+- [App Store (iOS/iPadOS)](https://apps.apple.com/us/app/pos-cash-register/id6748619707)
 
 ---
 
